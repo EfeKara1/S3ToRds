@@ -1,4 +1,3 @@
-# tests/test_pipeline.py
 import pytest
 from src.s3_handler import download_file_from_s3
 from src.rds_handler import create_db_engine, create_iris_table, insert_data_to_rds
